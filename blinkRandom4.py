@@ -1,4 +1,4 @@
-from neopixel import Neopixel
+from library.neopixel import Neopixel
 import utime
 from random import randrange
 

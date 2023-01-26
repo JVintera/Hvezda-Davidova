@@ -4,7 +4,12 @@
 <p>Jedná se o ukázku praktického využití mikrokontroleru v podobě vánoční ozdoby a zároveň o přípravek na procvičování programování a algoritmizace.</p>
 
 <h3>Schéma zapojení</h3>
-<img src="" alt="Chema zapojeni" width="600">
+<img src="img/schema.png" alt="Chema zapojeni" width="600">
+
+<h3>Programy</h3>
+<p><a href="library/neopixel.py">neopixel.py</a> - knihovna pro práci s RGB LED WS2812B</p>
+<p><a href="testLED.py">testLED.py</a> - knihovna pro práci s RGB LED WS2812B</p>
+<p><a href="blinkRandom4.py">blinkRandom4.py</a> - pseudonáhodné blikání čtyř LED<p>
 
 <h3>Soupis použitých komponent</h3>
 <ul>
@@ -19,11 +24,16 @@
 <p>3D modely pro tisk <a href="https://www.printables.com/cs/model/339583-christmas-star">Christmas star</a></p>
 
 <h3>Fotodokumentace</h3>
-<img src="IMG_20221212_104202420_kopie.jpg" alt="Davidova hvězda" width="600">
-<img src="IMG_20221212_104210208.jpg" alt="Vánoční výzdoba" width="600">
+<img src="img/IMG_20221212_104202420_kopie.jpg" alt="Davidova hvězda" width="600">
+<img src="img/IMG_20221212_104210208.jpg" alt="Vánoční výzdoba" width="600">
 
 <h3>Problémy a řešení</h3>
-<p>Připevnění LED do vytištěné desky s otvory - pomocí kobercové pásky. Po několika týdnech se některé LED odlepují. Možná bude fungovat na dvou místech zakápnout každou LED tavnou pistolí.</p>
+<p>Připevnění LED do vytištěné desky s otvory: pomocí kobercové pásky dostatečně nedrží. Lépe funguje zakápnout každou LED tavnou pistolí. Pozor, nezalít úplně, aby se LED dobře chladila, případně aby šla i snadno vyměnit.</p>
+
+<h3>Co dál?</h3>
+<p>Předělat na bateriové napájení.</p>
+<p>Naprogramovat další režimy blikání.</p>
+<p>Přidat tlačítko pro přepínání režimů blikání.</p>
 
 <h3>Literatura</h3>
 <ul>
