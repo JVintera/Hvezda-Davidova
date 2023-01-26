@@ -4,7 +4,7 @@
 <p>Jedná se o ukázku praktického využití mikrokontroleru v podobě vánoční ozdoby a zároveň o přípravek na procvičování programování a algoritmizace.</p>
 
 <h3>Schéma zapojení</h3>
-<img src="img/schema.png" alt="Chema zapojeni" width="600">
+<img src="img/schema.PNG" alt="Chema zapojeni" width="600">
 
 <h3>Programy</h3>
 <p><a href="library/neopixel.py">neopixel.py</a> - knihovna pro práci s RGB LED WS2812B</p>
@@ -24,8 +24,10 @@
 <p>3D modely pro tisk <a href="https://www.printables.com/cs/model/339583-christmas-star">Christmas star</a></p>
 
 <h3>Fotodokumentace</h3>
-<img src="img/IMG_20221212_104202420_kopie.jpg" alt="Davidova hvězda" width="600">
-<img src="img/IMG_20221212_104210208.jpg" alt="Vánoční výzdoba" width="600">
+<img src="img/IMG_20221212_104202420_kopie.jpg" alt="Davidova hvězda" width="400">
+<img src="img/IMG_20221212_104210208.jpg" alt="Vánoční výzdoba" width="400">
+<img src="img/IMG_20230123_161248088.jpg" alt="Vánoční výzdoba" width="400">
+<img src="img/IMG_20230124_093709991.jpg" alt="Vánoční výzdoba" width="400">
 
 <h3>Problémy a řešení</h3>
 <p>Připevnění LED do vytištěné desky s otvory: pomocí kobercové pásky dostatečně nedrží. Lépe funguje zakápnout každou LED tavnou pistolí. Pozor, nezalít úplně, aby se LED dobře chladila, případně aby šla i snadno vyměnit.</p>
