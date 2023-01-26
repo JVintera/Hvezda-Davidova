@@ -8,7 +8,7 @@
 
 <h3>Programy</h3>
 <p><a href="library/neopixel.py">neopixel.py</a> - knihovna pro práci s RGB LED WS2812B</p>
-<p><a href="testLED.py">testLED.py</a> - knihovna pro práci s RGB LED WS2812B</p>
+<p><a href="testLED.py">testLED.py</a> - program otestuje všechny LED</p>
 <p><a href="blinkRandom4.py">blinkRandom4.py</a> - pseudonáhodné blikání čtyř LED<p>
 
 <h3>Soupis použitých komponent</h3>
